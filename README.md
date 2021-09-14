@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - etc.
 
 ## ❤️ My interest
-
+- ☁️ Data Scients, AI and Blockchain
 **Data Scients, AI and Blockchain**☁️
