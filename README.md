@@ -36,6 +36,7 @@
    <a href = "https://www.java.com"><img src="https://img.shields.io/badge/-JAVA-%23333?style=for-the-badge&logo=JAVA&logoColor=white" target="_blank"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-%230077B5?style=for-the-badge&logo=JAVASCRIPT&logoColor=white" target="_blank"></a> 
  </div>
+
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ![Guilherme Gallicchio GitHub stats](https://github-readme-stats.vercel.app/api?username=guigallicchio&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigallicchio&layout=compact&theme=dracula)](https://github.com/guigallicchio/github-readme-stats)
