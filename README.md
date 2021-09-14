@@ -13,7 +13,7 @@
 ## :book: About me
 - 🖥 Currently working with PL/SQL, Oracle Forms and Reports
 - 🎓 Graduated in Analysis and Systems Development at the University Claretiano
-- 🎓 MBA in Business Technology: AI, Data Science and Big Data
+- 🎓 MBA in Business Technology: AI, Data Science and Big Data at the PUC Rio Grande do SUL
 - 🎓 Data Scientist Training at Data Science Academy [**In Progress**]
 - 🌱 I’m currently learning Data Science and AI
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
