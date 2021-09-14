@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and AI
 
 ## 📅 Hobbies
-- Solve programming problems
-- Basketball
+- 🔨 Solve programming problems
+- ![image](https://user-images.githubusercontent.com/9665997/133257853-a8ac083f-da64-44fb-8e98-19073884360d.png) Basketball
 - Play videogames
 - etc.
 
 ## ❤️ My interest
 - ☁️ Data Scients, AI and Blockchain
-**Data Scients, AI and Blockchain**☁️
