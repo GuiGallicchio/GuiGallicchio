@@ -26,4 +26,5 @@
 ## ❤️ My interest
 - ☁️ Data Scients, AI and Blockchain
 
-![Guilherme Gallicchio GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Guilherme Gallicchio GitHub stats](https://github-readme-stats.vercel.app/api?username=guigallicchio&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigallicchio&layout=compact)](https://github.com/guigallicchio/github-readme-stats)
+
