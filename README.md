@@ -14,7 +14,7 @@
 - 🖥 Currently working with PL/SQL, Oracle Forms and Reports
 - 🎓 Graduated in Analysis and Systems Development at the University Claretiano
 - 🎓 MBA in Business Technology: AI, Data Science and Big Data
-- 🎓 Data Scientist Training at Data Science Academy [In Progress]
+- 🎓 Data Scientist Training at Data Science Academy [**In Progress**]
 - 🌱 I’m currently learning Data Science and AI
 
 ## 📅 Hobbies
