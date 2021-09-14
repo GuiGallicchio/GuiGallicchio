@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Guilherme Gallicchio</h1>
 <!--<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>-->
 
-[![Linkedin Badge](https://img.shields.io/badge/-guilherme-gallicchio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-gallicchio-519a9141/)](https://www.linkedin.com/in/guilherme-gallicchio-519a9141)
+[![Linkedin Badge](https://img.shields.io/badge/-guilherme-gallicchio-519a9141-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-gallicchio-519a9141/)](https://www.linkedin.com/in/guilherme-gallicchio-519a9141)
 
 ## :book: About me
 - 🖥 Currently working with PL/SQL, Oracle Forms and Reports
