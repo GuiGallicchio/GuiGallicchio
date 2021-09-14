@@ -34,6 +34,7 @@
    <a href = "https://www.oracle.com/br/database/technologies/appdev/plsql.html"><img src="https://img.shields.io/badge/-PLSQL-%23333?style=for-the-badge&logo=ORACLE&logoColor=white" target="_blank"></a>
    <a href = "https://www.java.com"><img src="https://img.shields.io/badge/-JAVA-%23333?style=for-the-badge&logo=JAVA&logoColor=white" target="_blank"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JAVASCRIPT-%230077B5?style=for-the-badge&logo=JAVASCRIPT&logoColor=white" target="_blank"></a> 
+      <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-RSTUDIO-%230077B5?style=for-the-badge&logo=RSTUDIO&logoColor=white" target="_blank"></a> 
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
