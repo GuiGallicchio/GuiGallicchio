@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GuiGallicchio/GuiGallicchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Guilherme Gallicchio</h1>
+<!--<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>-->
+## :book: About me
+- 🖥 Currently working with PL/SQL, Oracle Forms and Reports
+- 🎓 Graduated in Analysis and Systems Development at the University Claretiano
+- 🎓 MBA in Business Technology: AI, Data Science and Big Data
+- 🎓 Data Scientist Training at Data Science Academy [In Progress]
+- 🌱 I’m currently learning Data Science and AI
 
-## My interest ❤️ 
+## 📅 Hobbies
+- Solve programming problems
+- Basketball
+- Play videogames
+- etc.
+
+## ❤️ My interest
 
 **Data Scients, AI and Blockchain**☁️
