@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My interest ❤️
-Data Scients, AI and Blockchain☁️
+
+## My interest ❤️ 
+
+**Data Scients, AI and Blockchain**☁️
