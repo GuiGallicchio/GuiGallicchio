@@ -37,5 +37,5 @@
    <a href = "https://www.java.com"><img src="https://img.shields.io/badge/-JAVA-orange?style=for-the-badge&logo=JAVA&logoColor=white" target="_blank"></a>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![Guilherme Gallicchio GitHub stats](https://github-readme-stats.vercel.app/api?username=guigallicchio&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigallicchio&layout=compact&theme=dracula)](https://github.com/guigallicchio/github-readme-stats)
+![Guilherme Gallicchio GitHub stats](https://github-readme-stats.vercel.app/api?username=guigallicchio&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigallicchio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
